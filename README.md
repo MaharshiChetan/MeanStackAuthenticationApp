@@ -22,3 +22,4 @@ $ npm start
 ```
 
 ### Screenshots in Wiki: https://github.com/tomcatbuzz/meanauthapp/wiki
+"# MeanStackAuthenticationApp" 

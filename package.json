@@ -4,7 +4,7 @@
   "description": "MEAN stack authentication app",
   "main": "app.js",
   "scripts": {
-    "start": "node app"
+    "start": "nodemon app"
   },
   "dependencies": {
     "express": "4.16.2",
@@ -16,7 +16,7 @@
     "passport": "0.4.0",
     "passport-jwt": "3.0.1"
   },
-  "author": "",
+  "author": "Chetan Maharshi",
   "license": "MIT",
   "devDependencies": {
     "@angular/cli": "^1.6.0"
